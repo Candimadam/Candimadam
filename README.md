@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 📫 How to reach via at my email: candiadam23@gmailcom.
-- 😄 Pronouns: Her.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love reading science fiction novels and reading manga.
 
 <!---
