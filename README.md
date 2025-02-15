@@ -6,6 +6,10 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love reading science fiction novels and reading manga.
 
-![candimadam's Stats](https://github-readme-stats.vercel.app/api?username=candimadam&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![candimadam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=candimadam&theme=vue-dark&hide_border=false)
-![candimadam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candimadam&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<p align="left">
+<a href="https://github.com/Candimadam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Candimadam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Candimadam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Candimadam&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
